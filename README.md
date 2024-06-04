@@ -23,3 +23,5 @@ Visuals that shows the:
 - Average Salary per Job Title by Company Location, 
 - Average Salary for remote roles abroad for people based in Greece and
 - The size of the companies with Data Science related roles in Europe and worldwide. 
+
+![image](https://github.com/AnnaSyr1/PowerBI-Project/assets/162064006/e615bb6c-ccc7-4d52-a057-b10ea85522f4)
